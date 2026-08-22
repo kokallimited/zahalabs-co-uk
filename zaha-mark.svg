@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="ZAHA Labs mark">
+  <defs>
+    <linearGradient id="zg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="96" height="96" rx="22" fill="#0B1220"/>
+  <path d="M22 38 L50 38 L30 70 L54 70 L26 86 L26 76 L42 62 L22 62 Z" fill="url(#zg)"/>
+</svg>
