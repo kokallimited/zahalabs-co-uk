@@ -1,5 +1,5 @@
-# ZAHA Labs — brand hub
+# ZAHA Lab — brand hub
 
-Hub site for the ZAHA Labs portfolio: https://zahalabs.co.uk
+Hub site for the ZAHA Lab portfolio: https://zahalab.com
 
 Deployed via GitHub Pages (kokallimited/zahalabs-co-uk) + Cloudflare.
